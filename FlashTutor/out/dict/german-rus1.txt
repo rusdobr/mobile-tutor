@@ -1,0 +1,104 @@
+﻿arbeiten: работать
+buchstabieren: произносить по буквам
+fragen: спрашивать
+haben: иметь
+heißen: называться
+hören: слышать
+kommen: приезжать
+leben: жить
+lesen: читать
+machen: делать
+meinen: думать
+möchten: хотеть
+reisen: путешествовать
+schreiben: писать
+sein: быть
+sprechen: говорить
+studieren: изучать
+warten: ожидать
+werden: становиться
+wohnen: проживать
+der_Alter: возраст
+der_Auslander: иностранец
+der_Beruf: профессия
+Deutchland: Германия
+die_Eltern: родители
+der_Familienname: фамилия
+der_Familiestand: семейное положение
+der_Fotograf: фотограф
+die_Frau: госпожа
+der_Geburtstag: день роождения
+die_Hausfrau: домохозяйка
+der_Herr: господин
+das_Hobby: хобби
+das_Jahre: год
+der_Kaufman: бизнесмен
+die_Kauffrau: бизнесменша
+das_Kind: ребенок
+die_Kinder: дети
+der_Kurs: кирс
+das_Land: страна
+die_Leute: люди
+die_Lösung: решение
+der_Mechaniker: механик
+der_Monat: месяц
+die_Monate: месяцы
+der_Ort: район
+Österreich: Автрия
+Postkarte: почтовая открытка
+Postleitzahl: почтовый индекс
+die_Schülerin: школьница
+die_Seite: страница
+die_Sekretärin: секретарша
+die_Straße: улица
+der_Student: студент
+die_Studentin: студентка
+der_Tag: день
+die_Tage: дни
+das_Telefon: телефон
+die_Telefonnummer: номер телефона
+der_Vorname: имя
+der_Wort: слово
+die-Zahl: число
+die_Zahlen: числа
+alt: старый
+berufstätig: профессиональный
+frei: свободный
+geschieden: разведенный
+gut: хороший
+klein: маленький
+ledig: не замужем
+neu: новый
+verheiratet: женатый
+bitte: пожалуйста
+da: здесь
+erst: лишь
+etwa: почти
+hier: здесь
+jetzt: теперь
+lieder: к сожалению
+nicht: не
+noch: еще
+noch_einmal: еще раз
+schon: уже
+übrigens: между прочим
+aber: но
+aus: из
+das: этот
+dein: твой
+denn: же
+in: в
+ja: да
+man: люди
+mein: мой
+mit: с
+nein: нет 
+und: и
+von: из
+was?: что?
+wer?: кто?
+wie?: как?
+wie_viel?: сколько? 
+wo?: где?
+woher?: откуда
+wohin?: куда?

@@ -1,0 +1,697 @@
+﻿abbrechen: обламывать, прерывать
+Abbrechen: прерывание; отмена; [n]
+abfangen: перехватывать
+Abfolge: (-n) последовательность [f]
+Abgabefrist: срок подачи налоговой декларации [f]
+abgebrochen: отрывочный; 
+abgelaufen: истекший; просроченный
+abgesagt: отказывают{отменяют}
+Abgeschlossen: запертый,  закрытый, Заключено, законченный
+Abkürzung: (-en) сокращение, уменьшение [f]
+Ablauf: (-läufe) течение, ход (событий); nach Ablauf по истечении [m]
+ablaufen: стекать, вытекать, сматываться
+Abmeldung: (-en) сообщение об отбытии; выписка; [f]
+Abnahme: (-n) Снятие{Отнятие}, принятие [f]
+absagen: отменять
+abschätzen: определять(приблиз.); оценивать
+Abschnitt: (-e) глава; раздел; период, участок [m]
+absenden: отсылать, отправлять
+abspeichern: запоминать; хранить (данные) в памяти;
+Abstand: (-stände) расстояние, дистанция  [m]
+Abteilung: (-en) Отделение, деление, выделение, [f]
+Adresse: (-en) адрес [n]
+Aggregation: (-en) соединение, объединение [f]
+Agreement: соглашение, договорённость
+aktualisieren: делать актуальным, обновлять
+Aktualisierungsvorgang: модернизации
+akzeptieren: признавать, соглашаться (с ч-л.)
+allgemein: общий, отвлечённый
+als: когда, в то время как, как
+Anbieter: провайдер; предлагающий товары [m]
+andere: другой; иной; второй, остальной
+ändern: менять, переделывать
+angeben: указывать; обозначать; задаваться, хвастать(ся) ( mit D-ч-л)
+angenommen: angenommen, daß допустим, что ..
+Anhang: (-hänge) приложение, добавление, [m]
+Anhänge: выступающие части корпуса судна в кормовой подводной оконечн.
+anhängen: прицеплять; привязывать
+anklicken: щёлкнуть мышью
+ankommen: прибывать;( bei j-m ) иметь успех ( auf A) зависеть(к.г./ч-л)
+anlangen: добраться ; ( bei D) дойти (до к-л. места при чтении ) 
+anlegen:(anA)прикладывать;надевать; строить; составлять(in A) помещать
+anmelden!: объявлять, заявлять; уведомлять
+annähen: пришивать
+anpassen: пригонять, подгонять,приводить в соответствие
+anscheinend: по-видимому, кажется 
+Anschließen соединение; присоединение; [n]
+Anschrift: (-en)Адрес, надпись, заглавие [f]
+Ansehen: (-s) вид; внешность, авторитет [n]
+Ansicht: (-en) мнение; взгляды; вид [f]
+anstatt: вместо(к.г./ч-л.); вместо того чтобы
+Antriebskraft: движущая сила [f]
+Antwort: (-en) ответ; отклик [f]
+anwenden: применять, употреблять
+Anwesenheit: присутствие; пребывание [f]
+Anzahl: число, количество [f]
+anzahlen: платить; взнос
+Anzeige: (-n) извещение; заявление, уведомление [f]
+anzeigen: объявлять, сообщать
+Applikation: (-en) приложение, применение, заявление [f]
+aufbauen: строить, сооружать, устанавливать; создавать
+auffüllen: наполнять; заполнять; засыпать; пополнять, комплектовать
+Aufgabe: (-n) задача, пример [f]
+aufgeben: задавать(на дом);загадывать, сдавать, отказываться; сдаваться
+aufgeschoben: Отодвинуто, отсроченный
+Auflösen: разведение, разбавление, решение; раскрытие (скобок) [n]
+aufnehmen: принимать; приступать; набирать; фотографировать
+aufrufen: (zu D) призывать; вызывать; делать перекличку
+Aufspalten: раскалывание, разведение [n]
+auftauchen: всплывать;(внезапно) появляться, показываться; возникать
+Auftreten: (-s) Выступление, поведение; манера [n]
+auftreten: ступать, наступать, возникать, появляться;
+Aufwand: (-s) затраты, расходы, издержки [m]
+Aufwartung: (-en) Обслуживание, прислуживание, визит[f]
+Aufzahlung: (-en) доплата [f]
+Aufzählung: (-en) перечисление; перечень, список [f]
+aufziehen: поднимать(паруса); выдвигать; натягивать; разводить
+ausblenden: отбирать,отфильтровывать ( лучи )
+ausdrucken: отпечатывать итог
+Ausgabe: (-n) выдача; отпуск, расход, трата [f]
+Ausgabeformat: формат вывода; выходной формат [n]
+ausgangs: в конце, на исходе
+Ausgangsziffer: Исходная цифра
+ausgerichtet: упорядоченный,
+Ausgewahlt: Выбрано
+ausgewertet: представленный в цифровой форме
+Ausprägung: (-en) выражение, (резкое) проявление [f]
+Ausrichtung: Выравнивание, исправление; поручение; сообщение [f]
+Ausschneiden: вырезка; выход (инструмента) из контакта с изделием [n]
+Auswahl: выбор, подбор; ( an / von ) [f]
+Authentifizierungsmethode: Метод аутентификации
+Autor: (-toren) автор; создатель [m]
+Bann: (-e) изгнание, ссылка; принуждение, приказание; [m]
+Bauteil: конструктивный элемент [n]
+beachten: соблюдать; принимать во внимание, учитывать
+Bearbeitung: обработка [f]
+Begrenzung: (-en) Ограничение, предел, граница [f]
+beheben: устранять, ликвидировать; преодолевать
+Beheber: получатель (денег со счета) [m]
+Beinhalter: ногодержатель [m]
+bekanntgeben: объявлять, сообщать; опубликовывать,
+belassen: оставлять
+beliebig: любой
+Bemerkung: (-en) замечание, примечание, наблюдение [f]
+benachrichtigen  уведомлять, извещать (von D)
+benötigen: нуждаться
+benützen: пользоваться, использовать, употреблять
+Benutzerkonten: Пользовательские счета
+Benutzername: Пользовательское имя [m]
+beobachtung: (-en) наблюдение [f]
+Berechnung: (-en) вычисление,Расчет, учёт, оценка; [f]
+Berechtigung: правомерность; право (zu D) [f]
+Bereich: (-e) район, область, отдел, диапазон  [m]
+bereiten: готовить; причинять(j-m)
+bereits: уже, почти
+Bereitstellung: (-en) подготовка, заготовка; войска, [f]                                  
+Bericht: (-m) сообщение; отчет; [m]
+Berichtseinstellungen: Установки сообщения
+berucksichtigt: принимать во внимание, учитывать
+beschäftigt: Занимает, занятый, работающий
+Beschreibung: (-en) описание [f]
+besetzt: занятый
+bestätigen: подтверждать, утверждать
+Bestätter: грузоотправитель, экспедитор [m]
+bestehen: выдержать, существовать; (auf A) настаивать; (aus D) состоять
+bestimmt: определенный; непременно
+Betreff: Повод
+Bezeichnung:  (-en) обозначение, название [f]
+Bezug: (-züge) пододеяльник; доходы, отношение [m]
+bezüglich: относительно, насчет (ч-л)
+Bild: (-er) картина; [n]
+Bildschirmanzeige: вывод на экран [f]
+bisher: до сих пор
+Breite: (-n) фронт ,ширина; толщина [f]
+danach: затем, потом, в соответствии  с этим
+Darstellen: изображать, представлять, исполнить роль
+Datei: (-en) массив данных; файл [f]
+Dateianhange: Дополнения файла
+Dateierweiterungen: Расширения файла
+Dateiname: Имя файла [m]
+Dateiübersicht: Обзор файла
+Dateiverzeichnis: Каталог файла
+Datensatz: запись, набор данных  [m]
+Datum: (Data-Daten) дата [n]
+Datumsformat: Формат даты
+Dauer: продолжительность, длительность; срок [f]
+Dienstleister: Производитель услуг, обслуживания[m]
+Dienstname: Служебное имя [m]
+Dienstnehmer: работающий по найму, работник, работополучатель [f]
+diesbezueglich: относящийся к этому
+Dritte: Третье лицо, третье число, третий
+Druck: давление, нажим [m] 
+drucken: печатать;
+Druckformat: Формат печати [n]
+durcheinandern: в беспорядке, как попало; перебивая друг друга
+Durchführung:  (-en) проведение, прокладывание [f]
+Durchsuchen: пересмотреть, обыскивать
+Ebene: (-n) Равнина{Уровень}, плоскость [f]
+Eigenschaft: (-en) качество, свойство [f]
+einbauen: встраивать; устанавливать; 
+einbinden: завязывать(in A)
+eindeutig: однозначный, ясный
+Einfügen: ввод, введение;[n]
+einfugen: Вставка{Введение}
+Eingabe: (-n) ввод  данных; жалоба; [f]
+Eingabefeld: Поле ввода
+eingeben: давать; вводить
+eingehen: принять (auf A); заключить; садиться (о ткани)
+eingetragen: зарегистрированный
+Einheit: (-en) единство, элемент [f]
+Einheitenanzahl: Объединенное количество
+einheitlich: единый, стандартный
+einladen: Приглашено, приглашать
+einlehren: обучать
+Einrücken: включение  [n]
+Einsatz: (-sätze) вставка, применение; введение в действие [m]
+Einschränkung: (-en) ограничение, сокращение; [f]
+Einstellung: (-en) набор; настройка; позиция;(zu D) [f]
+Eintrag: (-träge) запись, внесение, загрузка, питание [m]
+Einzug: (-züge) Въезд, вступление, въезд, переезд
+empfangen: принимают, принимать, получать;
+Empfänger: получатель; адресат[m]
+entfernen: удалять
+enthalten: содержать
+entsprechend: соответствующийs
+Entstehen: возникновение, генерация [n]
+entweder: entweder... oder — или... или...
+Entwickler: разработчик [m]
+Entwurf: (..würfe) эскиз; проект, план [m]
+erfassen: регистрировать; схватить
+erfolgreich: успешный, удачный, благополучный;
+Erforderliche : необходимый, нужный, требуемый
+erfordert: требовать
+Erfüllen: выполнять; исполнять
+ergänzen: ( durch A) дополнить
+erhöhen: повышать, увеличивать
+Erhöhung: (-en) повышение, увеличение [f]
+Erinnerung: (-en) воспоминание, память [f] (an D)
+Erklärung: (-en) объяснение, разъяснение, заявление [f]
+erlaubt: (j-m) разрешать; позволять
+erledigen: сделать, доделать, убить, прикончить
+erneut: повторный, еще раз
+erscheinen: показываться; представляться (j-m)
+Ersetzen: Заменять, замещение [n]
+ersichtlich: видимый, явный, очевидный
+Erste: первый, первое число
+erstellen: разрабатывать; изготовлять
+Erstellungszeitpunkt: Дата производства
+Erster: первый, Только 
+erweitern: расширять, распространять
+erzeugen: производить; вызывать
+eventuell: возможный
+existieren: существовать, быть; жить
+Extraplatz: Особенное место
+Fall: Fälle  случай, происшествие [m]
+falls: (в случае), если
+Farbe:(-n) Цвет{Краска} [f]
+fehlbuchstabiert:  ошибочно-разбирает по буквам
+Fehlender: Недостающее
+Fehler: Ошибка, недостаток [m]
+fehlerhaft: ошибочный, неверный
+Fehlermeldung: Сообщение об ошибке [f]
+fehlgeschlagen: не удался
+fehlschlagen: промахнуться, не попасть в цель
+Felder: (-er) Поля [n]
+Feldname: Полевое имя
+Festhalten: задержание, арест[n]
+Fett: (-e) жир, сало  [n]
+final: финальный, конечный,
+fixeren: фиксировать, закреплять
+Forum: (-ren, -ra, -s) форумы [n]
+Franzosisch: По-французки
+Fugen: заделка [заполнение] швов;[n]
+Funktion: (-en) Функция [f]
+Fusszehe палец ноги
+ganztägig (кругло)суточный, 
+Geandert: Изменено
+Gebiet: (-e) территория; район;  [n]
+Geburtstag: День рождения [m]
+geforderte: fordern-требовать
+Gelb: жёлтый цвет, жёлтая краска [n]
+gelten быть действительным; относиться
+gemäß: gem. соответствующий, соответственный
+gemass: согласно (ч-л), в соответствии с (ч-л),
+gemein: общий; подлый, низкий
+Genauigkeit: точность; тщательность [f]
+genauso: genauso wie точно также, как
+generieren: производить; генерировать
+generisch: родовой, относящийся к роду
+Geplantes: Запланированная 
+gesamt: общий; целиком;
+Gesamtbenutzer: Общий пользователь
+Gesamte: вся [общая] сумма, общий итог
+Gesamtkombination: Общая комбинация
+Gesamtmenge: общее количество [f]
+Gesamtsumme: Итоговая сумма  Gesamtbetrag общая сумма 
+Gesamtwert: суммарное [общее] значение; общая стоимость [m]
+Geschaft: (-e) дело, занятие [n]
+gesorgt: Беспокоивший
+gespeicheret: запомненный; накопленный;
+gestern: вчера
+gestrichen: streichen намазывать; красить
+getrennt: раздельный; отдельный;
+gewählte: избранный
+Gewinde: венок; гирлянда  [n]
+gleich: одинаковый;
+gleichzeitig: одновременный
+grau: серый; седой
+Grosse: Величина
+Grossschreibung: Верхний регистр
+Grund: причина
+gültig: действительный, значащий (о цифрах)
+Handgriffs: приём, ухватка, ручка, рукоятка; [m]
+Handy: Мобильный телефон
+häufig: часто
+Herstellung: (-en) изготовление, производство [f]
+Herunterladen: сгружать
+hier: здесь, тут; вот
+Hierarchie: иерархия [f]
+Hilfsmittel: Вспомогательное средство [n]
+Hintergrund: Задний план [m]
+Hintergrundfarbe: цвет фона [f]
+Hinweis: (-e) указание; ссылка; намёк [m]
+hinzu: сверх [кроме] того, к этому
+hinzufugen: добавляют
+Hinzufügung: добавление [f]
+Hoch: (-s) Высоко [n]
+hoch: высокий
+Hochladen: высоко-приглашенный{высоко-загруженный}
+hochlagern: придавать возвышенное положение
+Hochzeichen: Высокие знаки
+Hollandisch: Голландский язык
+Hyperverbannung: Гиперссылка
+importieren: импортировать
+InBearbeitung: В обработке{переделке}
+Index: (-es,-e,-dizes) Индекс [m]
+Indirekte: косвенный, непрямой; опосредованный
+Inhalt: (-e) содержание [m]
+Inhaltsverzeichnis: оглавление, указатель; перечень, опись [n]
+Inhaltsverzeichnis: содержание, оглавление, указатель; опись [n]
+Innerhalb: внутри, в пределах; течение
+Input: (-s) входная мощность, вложения, затраты [m]
+Interne: воспитанник, ..ница интерната [m, f]
+irgendwer кто-то; кое-кто, кто-нибудь
+irgendwie как-нибудь, как-то; кое-как
+irgendwo: где-то; где-нибудь
+Italienisch: Итальянский язык
+Jahresansicht: Годовое представление
+Jedes: Каждый
+jedoch: однако, же
+jeweilig: соответствующий, данный,
+Kapazität: (-en) Мощность, ёмкость, вместимость [f]
+Kategorie: (-rien) Категория [f]
+Kennwort: (-wörter) пароль; пропуск [n]
+Kennzeichnen: метка, обозначение [n];
+Kennzeichnen: отмечать, характеризовать;
+kennzeichnet: отмечать, делать пометки, метить
+Klammern: скобки [f]
+Klein: (-e) мелочь,Мало [n]
+knöpfen: застегивать
+Komma : (-s,-s,–ta) Запятая  [n]
+Kommentar: (-e) комментарий, пояснение [m]
+Kommentarzeile: Строка примечания
+konfigurieren: Конфигурировать
+Konto: (-s,-ten,–s) счёт [n]
+Kontoname: Имя счета
+kopieren: Копировать
+Kosten: (-s) Стоить{Пробовать} [n]
+Kosteneinheit: единица стоимости[f]
+Kostentreiber: фактор, определяющий увеличение издержек [m]
+Kostentyp: Тип издержек
+Kriterien: (-rien) Критерии [n]
+Kundenspezifisch: заказной
+kunstlich: искусственный
+Kursiv: (-en) курсив, курсивный шрифт [f]
+Laden: (-s) нагрузка; погрузка; [n]
+Lagerbestand складские запасы [m]
+Land: (-Länder) Страна{Земля} [n]
+lassen: оставлять , поручать, позволять
+lediglich только, лишь
+leer: пустой, порожний; незанятый,
+Leerzeichen: сигнал отсутствия; холостой знак [n]
+Leistungsgruppe: Производственная группа [f]
+Leistungsstruktur: Производственная структура
+Leseberechtigung: Право чтения
+letzte: последний, прошлый;
+liefern: поставлять, выпускать
+Linksbundig: Связано слева
+Liste: (-n) Список [f]
+Listenansicht: Представление списков
+Löschen: (-s) гашение,Угасать [n]
+Lösung , (-en) решение, разгадка [f]
+Lösungsvorschlag: предложение решения [m]
+Malus: надбавка к страховой премии [m] 
+Mandant: (-en) мандант, доверитель [m]
+Mandat: (-e)мандат, поручение, полномочия [n]
+Mangel: (Mängel) недостаток, нехватка  [m]
+mangen: катать бельё; придавать блеск (сукну) , лощить, ворсовать
+Manntage: человеко-день [m]
+Meldung: (-en) Сообщение, рапорт, донесение [f]
+Messformel: Измерительная формула
+Messgrößen: показатель (цифровой) [f]
+Messinterval: Измерительный интервал
+Meßregeln: распоряжение, указание, предписание [f]
+Messung: (-en) измерение [f]
+Messvereinbarung: Измерительное соглашение
+mindestens: по меньшей [крайней] мере, минимум, не менее
+Mischfall: Смешанный случай
+Mischungen: (-en) смесь[f]
+Mitte: (-n) Середина, середина; центр [f]
+Mitteilung: (-en) сообщение [f]
+Mittels: при помощи, с помощью,
+Modus: (-di) способ, манера; [m]
+Mögliche: возможное
+Monatsansicht: Ежемесячное представление
+Mulleimer: Мусорное ведро
+Multiplizieren: умножение  [n]
+Mutze: (-n) лепёшки для еды [f]
+nachfolgen: (D) следовать
+Nachfolger: Наследник, последователь, ученик [m]
+Nachname: Фамилия
+Nachrichten: Сообщения на сервере, сообщения; информация; известия
+nachvollziehbar:  воспроизводимый
+Nein: (-s) Нет [n]
+Netzwerk: сеть, сетчатое изделие  [n]
+Neu: (-s) По-новому, новолуние [n]
+Neue: Новый; пороша, свежевыпавший снег [f]
+Neueintrag: Новая запись
+nie: Никогда
+Niederlandisch: Голландский язык
+niedrig: Низко
+nirgendwo нигде; негде
+Norwegisch: Норвежский язык
+Nummerierung: Нумерация
+oberhalb: выше, вверху, сверху
+Oberseite верхняя сторона [f]
+Oberste: Высшая , начальник,
+öffentlich: общественный; всеобщий;
+Offnen: (-s) Открываться [n]
+öfters: часто, нередко
+Ordner: распорядитель, ответственный за соблюдение порядка; [m]
+organisieren: организовывать; устраивать
+Ort: (Örter) Место{Населенный пункт} [m]
+Output: (-s) Прибыль, выходная мощность [n]
+Parameter: Параметр [m]
+Pattern: модель поведения; [n]
+Personalkosten: Зарплаты рабочим и служащим
+personlich: личный, индивидуальный
+Pfad: (-e) путь  [m]
+Pfosten: Столбы, стойка, подпорка; [m]
+Pfostenantwort: Ответ столба
+Pfostenthema: Тема столба
+Plan: (Pläne) План [m]
+Platzhalter: Метка-заполнитель, человек, занимающий место для другого
+Portugisisch: Portugisisch
+Posteingang: Почтовое поступление [m]
+Posteingangsserver: Сервер почтового поступления
+Postleitzahl: Почтовый индекс [f]
+Preis: (-e) Цена [m]
+Priorität: (-en) приоритет, первенство, [f]
+privat: В частном порядке, личный, частный, приватный
+Privilegien: привилегии; льготы;
+Profit: (-e) Прибыль [m]
+Projektleiter: Руководитель проекта [m]
+Projektmitglied: Проектный член
+Prufen: контроль; проверка  [n]
+Punktlichkeit: Пунктуальность
+Quelle: (-n) источник, ключ; родник; ручей [f]
+Quote: (-n) квота, доля; взнос [f]
+Rahmenbreite: Рамочная ширина, ширина рамы [f]
+Rahmenfarbe: Рамочный цвет
+Rahmenvertrag: общий договор; типовой договор [m]
+Rand: (Ränder) край, предел, грань; поля [m]
+Recht: (-e) Действительно, право [n]
+Rechtsbundig: Связано справа
+Rechtschreibuberprufung: Перепроверка правописания.
+Rechtschreibung: орфография, правописание [f]
+Rechtschreibungvorschlage: предложений правописания
+Referenz: (-en ) ссылка;Рекомендация[f]
+Referenzdokumente: Документы рекомендации
+Regelung: (-en) регулировка; распоряжение, установка; [f]
+Reihe: (-n) ряд; серия; очередь; [f]
+Reihenfolge: последовательность, очерёдность [f]
+relativ: относительно; сравнительно
+Release: Релиз
+Reports: Репорта
+Reproduzieren: воспроизводить
+Rolle: (-n) Роль [f]
+Route: (-n) маршрут [f]
+Ruckgangig: Вниз
+Ruckstellung: Отчисление в резервный фонд{Отсрочка}
+Sachkosten: Предметные издержки
+samtliche: все (без исключения)
+schätzen: прибл. определять, оценивать ( auf A ), уважать,  думать
+schick: элегантный, шикарный
+schliessen: закрывать
+Schlussel: ключ, код, шифр [m]
+Schlusselworter: ключевыми словами
+Schnitt: (-e) надрез; резание; монтаж , зарубка [m]
+Schreibberechtigung: Письменное право
+Schrift: (-en) Письмо{Почерк}, шрифт; литеры, буквы [f]
+Schriftfarbe: Письменный цвет
+schwebend: нерешённый; незаконченный; висящий
+Schwellwert: пороговый уровень, порог [m]
+Seite: (-n) Сторона{Страница} [f]
+Seiteneinstellungen : Боковые установки 
+Sekunden: (-den) Секунды [f]
+senden: посылать, отправлять
+Sequenz: (-en) последовательность, очерёдность; повторение [f]
+Service: Сервис
+Serviceleistungen: Сервисные услуги
+Servicename: Имя сервиса
+sicher: безопасный; уверенный; разумеется;
+Sicherheitsgründe: соображения безопасности
+Sicherheitsgruppe: Защитная группа
+Sicht: (-en) видимость; вид; [f]
+Silbentrennung: деление слова на слоги, перенос слова [f]
+Sitzung: (-en) заседание [f]
+sofort: сейчас (же), тотчас, немедленно;
+Sonderzeichen: служебные знаки (не бук. и не циф.)[n]
+sonst: кроме того, еще, обычно, иначе
+sonstig: прочий, другой; дальнейший; прежний, обычный
+sowie: как и, а также, как только
+Spalte: (-n) столбец; [f]
+Spälte: огузок; средняя часть тазобедренного отруба; [f]
+Spalten: Раскалывать, двоение [f]
+Spaltenanzahl: Количество столбцов
+Spanisch: По-испански
+Speicherabwicklung: Выполнение склада 
+Speichern: Хранить{Собирать} [m]
+Spitze: (-n) вершина [f]
+Spitzname: Кличка [m]
+Sprache: (-n) язык; речь [f]
+Spracheinstellungen: Языковые установки
+Spuradresse: Адрес следа [f]
+Stadt: Город [f]
+Stammdaten: Основные данные [n]
+Stammdatenbearbeiter: Редактор основных данных
+Standardwert: значение по умолчанию, средняя величина [m]
+Startpunkt: Исходная точка [m]
+Startseite: Стартовая сторона
+Status: Статус [m]
+Statusauswahl: Выбор статуса
+stellen: ставить, поставить  [f]
+Stern: (-e) звезда [m]
+Stift: (-e) штырь, карандаш [m]
+stimmen: голосовать, настраивать, соответствовать 
+Störung (-en) нарушение, неполадки [f]
+Struktur: (-en) строение; структура; устройство [f]
+Stuckkosten: Издержки в расчёте на единицу продукции
+Stuckpreis: Цена за штуку
+Stückzahl: количество экземпляров  [f]
+stunden: Отсрочивать
+Suchen: Искать, поиск [n]
+Suchergebnisse: Результаты поиска
+Suchforum: Поисковый форум
+Suchthema: Тема страсти
+Summe: (-n) Сумма [f]
+Systemdatenbank: Системный банк данных
+Systemeinstellungen: Системные установки
+Systemverzeichnis: Системный каталог
+Tabellenbreite: Ширина таблиц
+Tagesansicht: (-en) Дневное представление, взгляд(über A), мнение [f]
+Tageszeitraster: Растр(шаг) времени дня [m]
+täglich: Ежедневно, ежедневный; повседневный
+tauchen: погружать, окунать;
+Teilnehmer: Участник, абонент [m]
+teilweise:  частичный; по частям
+Temporares : Временное 
+Terminart: Вид срока
+Terminort: Место срока
+Textbaustein: Текстовый строительный камень
+Tiefe: (-n) глубина; глубь; пропасть; ущелье; [f]
+Tiefzeichen: Глубокие знаки
+total: Совершенно, совсем
+Transaktionen: (-en) Трансакции, переговоры, сделка [f]
+treten: ступать; (auf A) наступать; протаптывать
+Tritt: (-e) шаг; походка [m]
+uberein: согласно, заодно
+überflüssig: лишний, ненужный; излишний
+Übergangswahrscheinlichkeit: вероятность перехода[f]
+übergeordnet: вышестоящий
+übernehmen: Принимать, взять на плечо
+überprüfen: проверять; контролировать
+uberschritten.: превосходили{нарушали}. превышение
+Übersicht: (-еn) обзор, обозрение [f]
+übertragen: носить, переносить; перемещать
+Umbenennung: переименование [f]
+umgehen: (mit D)обращаться; общаться; бродить, избегать
+umrechnen: переводить (в другие единицы измерения)
+Umsatz: (-Umsätze) Оборот, обмен; [m]
+umstellen: переставлять;  (auf  A) перестраивать, переводить
+unbedingt: обязательно, непременно; 
+unbekannt: Неизвестно
+unerlaubt: непозволительный, недозволенный, запретный 
+Ungebilligt: Непринято
+ungefähr приблизительно, около
+ungerecht: несправедливый
+Unnummerierte: Неперенумеровывавший  
+untereinander: между собой, друг с другом
+unterhalb: ниже, внизу
+unterscheiden: распознавать; (von D) отличать
+Unterschrift: (-en) Подпись [f]
+Unterschriftseite: Сторона подписи
+Unterseite: нижняя сторона, изнанка [f]
+unterstreichen: подчёркивать
+Unterzeichnung: (-en) Подписание [f]
+unvollständig: неполный
+unzulässig: недопустимый, непозволительный
+Ursache: причина[f] keine Ursache! не за что!
+Ursprunglich : Первоначально 
+verbinden: связывать, соединять
+Verbindungsfehler: Ошибка связи
+verbrauchen: потреблять, расходовать; амортизировать
+vereinbaren: согласовывать, договариваться
+Vereinbarung: (-en ) Соглашение [f]
+Verfahren: Процессы, метод, производство [n]
+Verfahrensvereinbarung: (-en) соглашение, договорённость; сделка [f]
+verfassen: составляют, сочинять
+verfügbar: имеющийся в распоряжении, наличный
+Vergangenheit: прошлое, прошедшее [f]
+vergeben: прощать ( j-m )
+vergrößern: увеличивать, умножать; расширять
+verhalten: держаться; относиться (zu D)
+verhindern: предотвращать; zu inf . помешать
+verkleinern: уменьшать
+Verknüpfung: соединение; композиция  [f]
+verlieren: терять
+vermutlich: предполагаемый
+veröffentlichen публиковать, опубликовывать, выпускать
+Verpackung: упаковка; расфасовка [f]
+Versal: (-lien) прописная буква [m]
+verschieben: Откладывать, сдвигать (с места), передвигать
+verschwinden: исчезать, скрываться
+verstecken: прятать 
+verstossen: нарушать (ч-л) (gegen A)
+versuchen: пробовать; пытаться, соблазнять, искушать
+versuchsweise: проверки, в виде опыта, для пробы;
+Vertikale: Вертикаль [f]
+vertrag: (-träge) договор, контракт [m]
+vertraglich: по договору, согласно договору
+Vertragsansicht: Договорное представление
+Vertragsgültigkeit: Договорная сила
+Vertragspfand  договорный залог  [n]
+Vertragstext: Текст договора
+Vertragstyp: Договорной тип
+vertraulich: доверительный, секретный
+Verwandte: (-n) Родственные, родственник [m]
+verweigern: отказывают, отказываться
+Verwendbarkeit:  пригодность, применимость; практическая полезность [f]
+verwenden: использовать; (auf A) тратить
+verwirrend: спутывать; смущать
+Verzeichnis:  (-se) список; Каталог,  указатель [n]
+verzweigen: разветвляться
+vollstandige: полный; совершенно
+Vollstrecker: исполнитель [m]
+Volumen: (-s) (= и mina )Объемы [n]
+Volumenserfassung: Учет объема
+vorab: прежде всего, сначала
+Vordergrund: передний план [m]
+Vorganger: предшественник [m]
+Vorgängerelement: Предшествующий элемент
+vorgeben: задать, установить;
+vorgehen: идти вперед; действовать; происходить; спешить (о часах)
+vorgerückt: Поздний 
+Vorhanden: Vorhanden sein   иметься
+vorherig: предыдущий, прежний
+vorkommen: происходить; встречаться; казаться (j-m)
+vorliegend: данный, имеющийся
+Vorlösung: предварительное растворение [f]
+Vorname: имя [m]
+Vorschau: Программа, предварительный просмотр [f]
+Vorschlag: (-schläge) Предложения [m]
+Voruberschrift: Пред-заголовок
+vorzusehen: предусматривать; планировать
+Wahrscheinlichkeit: Вероятность [f]
+Warnmeldungen: предупредительная индикация [f]
+Warnung: (-en) предостережение, предупреждение [f]
+Wartezeit: время ожидания, срок, [f]
+wechseln: менять; перемениться; разменивать
+wegnehmen: убирать; отнимать, отбирать
+weiterleiten: передавать, дальше 
+Weiterleitungsfehler: Далекая ошибка линии
+Weitern: прибавка  [n]
+wenden: переворачивать; выворачивать;
+Wert: (-e) стоимость;  ценность; значение;  [m]
+widerstehen: (D) устоять; выдерживать
+Wiederauftreten: Повторное выступление{поведение}
+Wiedereinbau:  повторная сборка [m]
+wiederherstellen: Восстановление
+wiederholen: Повторять, повторять; возобновлять
+wiederholenden: снова принести, забрать, вернуть
+Wiederholungsfaktor: Фактор повторения
+Wiederholungszeitraum: Период повторения
+wiederkehren: возвращаться; повторяться
+Willkommen:  Добро пожаловать [n]
+Windings: windig ветреный
+Woche: (-n) Неделя [f]
+Wochenansicht: Представление недель
+Wochentag: будничный день, рабочий день [m]
+wöchentlich: еженедельный
+Wunsch: (-Wünsche) желание [m]
+Zahl: (-en) число; цифры [f]
+Zeichenkette: цепочка символов; строка [f]
+Zeil: (-en) время; [f] Zeil anlagen 
+Zeilenanzahl: Строчное количество
+Zeit: (-en) Время [f]
+Zeitform: время, временная форма
+Zeitformat: Временной формат
+Zeitmessung: хронометраж, замер времени  [f]
+Zeitraum: период (времени) [m]
+Zeitzone: Часовой пояс [f]
+Zelle : (-n) Клетка{Кабина}, кабина  [f]
+Zellenabstand: Расстояние клеток
+Zellenrandabstand: Расстояние края клеток
+zentrieren: Центрирует
+Ziel: (-e) Цель [n]
+zugeordnet: упорядоченный
+Zugriff: (e)s хватка, приём [m]
+zuletzt: 1) в последний раз; напоследок
+zumindest: по меньшей мере
+zunächst: прежде всего, сначала
+zuruck: назад, позади
+zurücksetzen: Возвращать, ставить обратно
+Zusammenfassen: Резюмирование, схватывать; охватывать
+Zusammenhang: (-hänge) связь, причина, контекст [m]
+zusammenhängen: (mit D) тесно [непосредственно]; быть связанным
+Zusatz: (-sätze) дополнение [m]
+Zusatzinformationen: Дополнительные сведения
+Zusatzvereinbarung: дополнительное соглашение [f]
+zustimmen: Соглашаться
+zuvor: прежде, раньше,
+zuweisen: ( j-m ) предоставлять, выделять
+zuweisen: выделенные, направлять, назначать
+Zweite: второе число [m], второй [n,m,f], на втором месте
+zwischen: между
+
+

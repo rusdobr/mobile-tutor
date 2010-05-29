@@ -1,0 +1,227 @@
+﻿anfangen: начинать
+anzeihen: надевать
+aufhören: переставать
+aufmachen: открывать
+aufräumen: убирать
+aufstehen: вставать
+bedienen: обслуживать
+beschreiben: описывать
+bringen: приносить
+dürfen: мочь
+duschen: принимать душ
+einkaufen: покупать
+einladen: приглашать
+feiern: праздновать
+fernsehen: смотреть телевизор
+fotogtafiren: фотографировать
+frühstücken: завтракать
+holen: забирать
+kontrolliren: контролировать
+können: мочь
+messen: мерить
+mitbringen: приносить с собой
+mitkommen: приходить с кем-либо
+müssen: быть должным
+ordnen: приводить
+Rad fahren: кататься на велосипеде
+rauchen: курить
+schlafen: спать
+schneiden: резать
+schwimmen: плавать
+sehen: смотреть
+spazieren gehen: гулять
+stattfinden: происходить
+stören: мешать
+tanzen: танцевать
+treffen: встретить
+vergessen: забывать
+vergleichen: сравнивать
+vorbereiten: приготовить
+vorhaben: собираться
+zeichnen: рисовать
+zuhören: слушать
+der_Abend (-e): вечер
+die_Ansichtskarte (n): открытка
+die_Arbeit: работа
+der_Ausflug: вылет
+der_Bäcker: пекарь
+die_Bank(-en): банк
+die_Bar(-s): бар
+die_Bibliotek(-en): библиотека
+das_Buch(-en): книга
+das_Cafe(-s): кафе
+die_Diskothek(-en): дискотека
+der_Donnerstag: четверг
+die_Dusche: душ
+der_Eintritt: вход, вступление
+das_Essen: еда
+das_Fernsehen: телевидение
+das_Fieber: жар
+der_Film(-e): фильм
+der_Freitag: пятница
+die_Freizeit: свободное время
+die_Friseurin(-nen): парикмахерша
+der_Friseur: парикмахер
+der_Gast: гость
+der_Gruß: приветствие
+der_Juli: июль
+die_Kellnerin: официантка
+der_Kellner: официант
+das_Kino(s): кино
+das_Kleid(-er): платье
+das_Konzert(-e): концерт
+das_Krankenhaus(-er): больница
+die_Krankenschwester(-n): медсестра
+die_Lehrerin: учительница
+der_Lehrer: учитель
+die_Mannschaft(-en): команда
+die_Maschine(-n): машина
+das_Meer(-e): море
+der_Mensch(-en): человек
+der_Mittag(-e): полдень
+das_Mittagessen: обед
+der_Mittwoch: среда
+der_Montag: понедельник
+die_Musik: музыка
+der_Passagier(-e): пассажир
+die_Pause(-n): пауза
+das_Restaurant(-s): ресторан
+der_Samstag: четверг
+der_Satz(-e): предложение
+das_Schild(-er): таблица
+das_Schwimmbad: бассейн
+die_Situation(-en): ситуация
+der_Sonnabend: суббота
+das_Sonnenbad(-r): загарать
+der_Sonntag: воскресенье
+der_Spaziergang(-r): прогулка
+der_Tanz(-e): танец
+die_Torte(-e): торт
+die_Uhrzeit(-en): время
+der_Verband(-e): перевязка
+das_Viertel: четверть
+der_Vortrag(-e): доклад
+die_Wohnung(-en): квартира
+die_Zeitung(-en): газета
+die_Zigarette(-n): сигареты
+früh: рано
+geöffnet: открыто
+geschlossen: закрыто
+herrlich: чудесный
+herzlich: сердечный
+leise: тихо
+lieb: милый
+nächts: следующий
+nett: добрый, приветливый
+obligatorisch: обязательно
+spät: поздно
+verboten: запрещено
+eben: только что
+heute: сегодня
+immer: всегда
+meistens: часто
+morgen: утром
+nie: никогда
+selbst: сам
+vielleicht: может быть
+also: и так
+auf: на
+bis: до
+gegen: против
+jemand: кто-то
+nach: после
+selbst: сам
+von_bist_: с_до_
+wann?: когда
+warum?: почему?
+wie lange?: как долго?
+zwischen: между
+Achtung!: Внимание!
+Betten machen: застилать постель
+das nächste Mal: в следующий раз
+frei haben: свободное время
+Leid tun: жаль
+los sein: начало движения
+Lust haben:  иметь настроение
+Pause machen: делать паузу
+Schön: Красиво
+spät sein: поздно
+Tschüs!: Пока!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

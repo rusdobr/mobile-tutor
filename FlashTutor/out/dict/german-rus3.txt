@@ -1,0 +1,160 @@
+﻿backen: печь
+bekommen: получать
+bestellen: заказывать
+bezahlen: оплачивать
+brauchen: нуждаться
+erkennen: узнавать
+erzählen: рассказывать
+essen: кушать
+glauben: варить
+kennen: мочь
+kochen: готовить
+mögen: желать
+nehmen: брать
+sehmecken: пробовать
+trinken: пить
+üben: заниматься
+das_Abendessen: ужин
+der_Alkohol: алкоголь
+die_Anzeige: объявление
+der_Apfel: яблоко
+das_Bier: пиво
+die_Bohne: бобы
+das_Brot: хлеб
+das_Brötchen: булка
+die_Butter: масло
+die_Dose: банка
+das_Ei: яйца
+das_Eis: мороженное
+die_Erdbeere: клубника
+der_Euro: евро
+der_Export: экспорт
+der_Fisch: рыба
+die_Flasche: бутылка
+das_Fleisch: мясо
+die_Frage: вопрос
+die_Frucht: фрукт
+das_Frühstück: завтрак
+die_Gabel: вилка
+der_Gasthof: гостиница
+das_Gemüse: овощи
+das_Gericht: суд
+das_Gespräch: разговор
+das_Getränk: напиток
+das_Gewürz: специи
+das_Glas: стакан
+das_Gramm: грамм
+das_Hähnchen: цыпленок
+der_Kaffee: кофе
+die_Kartoffel: картофель
+der_Käse: касса
+das_Kilo: килограм
+die_Kiste: ящик
+das_Kotlett: котлета
+der_Kuchen: пирог
+die_Limonade: лимонад
+der_Liter: литр
+der_Löffel: ложка
+die_Marmelade: мармелад
+das_Mehl: мука
+das_Messer: нож
+die_Milch: молоко
+das_Mineralwasser: мин. вода
+der_Nachtisch: десерт
+der_Obstkuchen: фруктовый пирог
+das_Öl: растительное масло
+der_Pfeffer: перец
+das_Pfund: фунт
+der_Preis: цена
+der_Reis: рис
+der_Rotwein: красное вино
+der_Saft: сок
+die_Sahne: сливки
+der_Salat: салат
+der_Schinken: шинка
+die_Schokolade: шоколад
+die_Soße: соус
+die_Speisekarte: меню
+das_Spülmittel: моющее средство
+das_Steak: стейк
+die_Suppe: суп
+die_Tasse: чашка
+der_Tee: чай
+der_Teller: тарелка
+die_Tomate: помидор
+die_Vorspeise: закуска
+die_Wäsche: стирка
+die_Wurst: колбаса
+der_Zettel: стикер
+der_Zucker: сахар
+die_Zwiebel: лук
+billig: дешевый
+bitter: горький
+dunkel: темный
+eng: тесный узкий
+fantastish: фантастический
+fett: жирный
+frisch: свежий
+groß: большой
+grün: зеленый
+hart: черствый
+hell: светлый
+hoch: высокий
+kalt: холодный
+lieber: любимый
+mild: нежный
+nah: близко
+normal: нормальный
+rot: красный
+salzig: соленый
+sauer: кислый
+scharf: острый
+schlank: худой
+stark: сильный
+suß: сладкий
+trocken: сухой
+typisch: типичный
+warm: теплый
+wichtig: влажный
+abends: вечером
+besonders: очень
+danach: после
+dann: потом
+fast: быстро
+ganz: полностью
+genug: хватит
+gern: охотно
+lieber: любить(предпочитать)
+manchmal: иногда
+mittags: в обед
+morgens: утром
+nachmittags: после обеда
+natürlich: конечно
+nur: только
+oben: наверху, вверху
+oft: часто
+so: так
+sofot: сейчас же
+überall: везде
+unten: внизу
+verschieden: разный, некоторые
+vorwiegend: предпочтительный
+zuerst: во первых
+zasammen: вместе
+alle: все
+als: как
+doch: да (утверждение)
+etwas: что-то
+jeder: каждый
+mit: с
+pro: за (раз)
+zu: к
+viel: много
+welcher?: какой?
+es gibt: имеется
+vor allem: так как, перед тем
+das_Gramm: грамм
+das_Kilogramm: килограмм
+
+
+

@@ -1,0 +1,9 @@
+<config>
+	<dict>
+		<item label="Lektion1" ver="0" url="german-rus1.txt"/>
+		<item label="Lektion2" ver="0" url="german-rus2.txt"/>
+		<item label="Lektion3" ver="0" url="german-rus3.txt"/>
+		<item label="Lektion4" ver="0" url="german-rus4.txt"/>
+		<item label="Lektion00" ver="0" url="german-rus11.txt"/>
+	</dict>
+</config>

@@ -1,0 +1,65 @@
+﻿oben: выше
+außen: за пределами
+unten: ниже
+rechts: справа
+hier: здесь
+links: слева
+da: здесь
+dahinter: за ней
+dort: там
+irgendwo: где-то
+überall: везде
+vorn: спереди
+hinten: за
+Zeitpunkt: Время
+dann: затем
+jetzt: в настоящее время
+sofort: немедленно
+heute: сегодня
+gestern: вчера
+bald: скоро
+gerade: просто
+jahrelang: годами
+seither: с того времени
+nie: никогда
+bisher: до сих пор
+hierher: здесь
+heraus: из наружу
+herein: внутрь
+abwärts: вниз
+fort: дальше
+weg: прочь
+immer: всегда
+nachmittags: после обеда
+oft: часто
+selten: редко
+manchmal: иногда
+nachher: потом
+seitdem: с тех пор
+vorher: предварительно
+inzwischen: тем временем
+gern: с удовольствием
+anders: другой
+ebenso: также
+irgendwie: как-то
+damit: чтобы
+womit: с чем
+wodurch: из-за чего
+dagegen: против этого
+hingegen: с другой стороны
+jedoch: однако
+vielmehr: скорее
+deshalb: поэтому
+daher: от того
+darum: по этому
+infolgedessen: в результате
+nämlich: а именно
+sonst: иначе, а то
+andernfalls: иначе
+danach: все-таки
+gleichwohl: точно так же
+trotzdem: все равно
+dazu: к этому
+dafür: для этого
+wofür: для чего
+hierfür: за что
