@@ -9,7 +9,6 @@ class com.core.Dictionary extends EventDispatcher {
 	
 	public function load (url:String) {
 		var me = this;
-		trace('load...'+url);
 		var loader:LoadVars = new LoadVars();
 		loader.onData = function (data:String){
 			if (data == undefined){

@@ -1,12 +1,17 @@
 ﻿<flash_project name="MobyTutor" version="1">
     <project_folder name="com" expanded="true">
         <project_folder name="ui" expanded="true">
-            <project_file path="./com/ui/WordShuffle.as" filetype="as" />
             <project_file path="./com/ui/WordShuffleTest.as" filetype="as" />
+            <project_file path="./com/ui/MenuItem.as" filetype="as" />
+            <project_file path="./com/ui/MenuMain.as" filetype="as" />
+            <project_file path="./com/ui/PanelBase.as" filetype="as" />
+            <project_file path="./com/ui/WordShuffle.as" filetype="as" />
         </project_folder>
         <project_folder name="core" expanded="true">
-            <project_file path="./com/core/Dictionary.as" filetype="as" />
             <project_file path="./com/core/Utils.as" filetype="as" />
+            <project_file path="./com/core/Config.as" filetype="as" />
+            <project_file path="./com/core/Dictionary.as" filetype="as" />
+            <project_file path="./com/core/DictionaryItem.as" filetype="as" />
         </project_folder>
     </project_folder>
     <project_file path="./littleTest.fla" filetype="fla" profile="" def_file="true" />
