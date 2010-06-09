@@ -1,7 +1,9 @@
-﻿class com.ui.WordShuffleTest extends com.ui.PanelBase 
+﻿import com.core.WordGerman;
+
+class com.ui.WordShuffleTest extends com.ui.PanelBase 
 {
 	private var _words:Array;
-	private var _currentWord : Array;
+	private var _currentWord : WordGerman;
 	private var _currentWordId:Number = -1;
 	private var _currentErrNumber:Number = 0;
 	private var _shuffledWord : String;
@@ -16,6 +18,7 @@
 	private var height:Number;
 	private var _stat:Array = [];
 	private var _totalWords:Number = 0;
+	private var _timer:Number = 0;
 	
 	public function WordShuffleTest() {
 		super();
@@ -42,10 +45,17 @@
 			return;
 		}
 		_currentWordId = random(_words.length);
-		_currentWord = _words[_currentWordId];
+		_currentWord = new WordGerman(_words[_currentWordId][0],_words[_currentWordId][1]) ;
 		_currentErrNumber = 0;
-		translation_txt.text = '' + _currentWord[1];
-		_shuffledWord = _getShuffledWord (_currentWord[0]);
+		var text = _currentWord.translation;
+		if (_currentWord.gender !=  '') {
+			text += ' ['  + _currentWord.gender + ']';
+		};
+		if (_currentWord.pluralEnding !=  '') {
+			text += ' ('  + _currentWord.pluralEnding + ')';
+		};
+		translation_txt.text = text;
+		_shuffledWord = _getShuffledWord (_currentWord.word);
 		_removeLetters();
 		_createLetters();
 		_removeSamples();
@@ -66,9 +76,9 @@
 		return word_out;
 	}
 	private function _createLetters() {
-		for (var i=0; i<_currentWord[0].length; ++i ){
+		for (var i=0; i<_currentWord.word.length; ++i ){
 			var obj = {
-				letter : _currentWord[0].charAt(i),
+				letter : _currentWord.word.charAt(i),
 				_visible : false,
 				visible : true
 			}
@@ -147,7 +157,7 @@
 	}
 	private function __onSampleButtonPress(press_btn:Button) {
 		var letter:String = press_btn._parent.letter;
-		if (letter == _currentWord[0].charAt(_currentLetterIndex)) {
+		if (letter == _currentWord.word.charAt(_currentLetterIndex)) {
 			this._removeSampleButton(press_btn._parent);
 			this._selectCurrentLetter();
 		} else {
@@ -163,6 +173,7 @@
 			this._displayWord();
 			return;
 		}
+		Selection.setFocus(_samples[0]);
 		var letter_mc:MovieClip;
 		do {
 			_currentLetterIndex++;
@@ -183,9 +194,14 @@
 		}
 		if (timeout > 0){
 			var me = this;
-			var timer = setInterval(function (){;clearInterval(timer);me._nextWord()}, timeout);
+			_timer = setInterval(
+				function (){
+					clearInterval(me._timer);
+					me._nextWord()
+				},
+				timeout
+			);
 		}
-		
 	}
 	private function onMenuPress(btn:MovieClip) {
 		switch(btn.id){
@@ -215,6 +231,7 @@
 	public function finalize(){
 		_removeLetters();
 		_removeSamples();
+		clearInterval(_timer);
 		super.finalize();
 	}
 }

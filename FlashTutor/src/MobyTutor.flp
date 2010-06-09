@@ -12,6 +12,7 @@
             <project_file path="./com/core/Config.as" filetype="as" />
             <project_file path="./com/core/Dictionary.as" filetype="as" />
             <project_file path="./com/core/DictionaryItem.as" filetype="as" />
+            <project_file path="./com/core/WordGerman.as" filetype="as" />
         </project_folder>
     </project_folder>
     <project_file path="./littleTest.fla" filetype="fla" profile="" def_file="true" />

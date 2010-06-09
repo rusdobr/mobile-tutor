@@ -1,5 +1,6 @@
 ﻿import mx.events.EventDispatcher;
 import com.core.Utils;
+import com.core.WordGerman;
 
 class com.core.Dictionary extends EventDispatcher {
 	private var _words:Array = [];
@@ -34,6 +35,8 @@ class com.core.Dictionary extends EventDispatcher {
 			if (row.length > 0){
 				var pair:Array = row.split(': ');
 				pair.id = i;
+				var word:WordGerman = new WordGerman(pair[0], pair[1]);
+				//trace(pair[0]+':'+word.gender+':'+word.word+':'+word.pluralEnding+':'+word.isNoun);
 				_words.push (pair);
 			}
 		}
