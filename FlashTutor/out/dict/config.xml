@@ -4,6 +4,8 @@
 		<item label="Lektion2" ver="0" url="german-rus2.txt"/>
 		<item label="Lektion3" ver="0" url="german-rus3.txt"/>
 		<item label="Lektion4" ver="0" url="german-rus4.txt"/>
-		<item label="Lektion00" ver="0" url="german-rus11.txt"/>
+		<item label="Adverb" ver="0" url="german-rus11.txt"/>
+		<item label="Deutsch 1017" ver="0" url="ger1017.txt"/>
+		<item label="Deutsch big" ver="0" url="german-rus0.txt"/>
 	</dict>
 </config>
