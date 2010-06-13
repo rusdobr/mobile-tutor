@@ -8,7 +8,6 @@ class com.ui.WordShuffleTest extends com.ui.PanelBase
 	private var _currentErrNumber:Number = 0;
 	private var _shuffledWord : String;
 	private var translation_txt:TextField;
-	private var shuffle_txt:TextField;
 	private var _letters :Array = [];
 	private var _samples :Array = [];
 	private var letters_mc : MovieClip;
