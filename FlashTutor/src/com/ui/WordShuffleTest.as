@@ -1,4 +1,5 @@
 ﻿import com.core.WordGerman;
+import com.core.Utils;
 
 class com.ui.WordShuffleTest extends com.ui.PanelBase 
 {
@@ -66,13 +67,7 @@ class com.ui.WordShuffleTest extends com.ui.PanelBase
 		_exit();
 	}
 	private function _getShuffledWord (word:String):String {
-		var word_out:String = '';
-		while (word.length) {
-			var rnd:Number = random (word.length);
-			word_out += word.charAt(rnd);
-			word = word.substr(0, rnd) + word.substr(rnd+1);
-		}
-		return word_out;
+		return Utils.getShuffledWord(word);
 	}
 	private function _createLetters() {
 		for (var i=0; i<_currentWord.word.length; ++i ){
@@ -172,7 +167,7 @@ class com.ui.WordShuffleTest extends com.ui.PanelBase
 			this._displayWord();
 			return;
 		}
-		Selection.setFocus(_samples[0]);
+		Selection.setFocus(_samples[0]._target);
 		var letter_mc:MovieClip;
 		do {
 			_currentLetterIndex++;

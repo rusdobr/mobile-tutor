@@ -1,4 +1,6 @@
-﻿class com.ui.WordShuffle extends com.ui.PanelBase 
+﻿import com.core.Utils;
+
+class com.ui.WordShuffle extends com.ui.PanelBase 
 {
 	private var _words:Array;
 	private var _currentWord : Array;
@@ -53,13 +55,7 @@
 		_intval = setInterval (this, '_nextWord', 2500);
 	}
 	private function _getShuffledWord (word:String):String {
-		var word_out:String = '';
-		while (word.length) {
-			var rnd:Number = random (word.length);
-			word_out += word.charAt(rnd);
-			word = word.substr(0, rnd) + word.substr(rnd+1);
-		}
-		return word_out;
+		return Utils.getShuffledWord(word);
 	}
 	private function onMenuPress(btn:MovieClip) {
 		switch(btn.id){

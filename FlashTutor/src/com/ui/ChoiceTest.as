@@ -1,4 +1,5 @@
 ﻿import com.core.WordGerman;
+import com.core.Utils;
 
 class com.ui.ChoiceTest extends com.ui.PanelBase 
 {
@@ -17,7 +18,7 @@ class com.ui.ChoiceTest extends com.ui.PanelBase
 	private var _totalWords:Number = 0;
 	private var _correctId:Number = -1;
 	private var _timer:Number = 0;
-	private static var N_SAMPLES = 5;
+	private static var N_SAMPLES = 6;
 	
 	public function WordShuffleTest() {
 		super();
@@ -58,13 +59,16 @@ class com.ui.ChoiceTest extends com.ui.PanelBase
 		sample_txt.text = text;
 		_createSamples();
 		_orientSamples();
-		Selection.setFocus(_samples[0]);
+		Selection.setFocus(_samples[0]._target);
 	}
 	private function _displayResults() {
 		_exit();
 	}
-	private function _getOriginalText(word:WordGerman):String{
+	private function _getOriginalText(word:WordGerman, shuffle:Boolean):String{
 		var text:String = word.word;
+		if(shuffle === true) {
+			text = Utils.getShuffledWord(text);
+		}
 		if (word.gender !=  '') {
 			text += ' ['  + word.gender + ']';
 		};
@@ -144,6 +148,9 @@ class com.ui.ChoiceTest extends com.ui.PanelBase
 		}
 	}
 	private function _displayWord(timeout:Number) {
+		if (_currentType == 'trans'){
+			_samples[_correctId].label = _getOriginalText(_currentWord);
+		}
 		timeout = timeout == undefined ? 500 : timeout;
 		if (timeout > 0){
 			var me = this;

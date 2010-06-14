@@ -8,4 +8,13 @@
 		}
 		return txt_str;
 	}
+	public static function getShuffledWord(word:String) : String {
+		var word_out:String = '';
+		while (word.length) {
+			var rnd:Number = random (word.length);
+			word_out += word.charAt(rnd);
+			word = word.substr(0, rnd) + word.substr(rnd+1);
+		}
+		return word_out;
+	}
 }

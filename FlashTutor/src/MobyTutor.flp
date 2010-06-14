@@ -6,6 +6,8 @@
             <project_file path="./com/ui/MenuMain.as" filetype="as" />
             <project_file path="./com/ui/PanelBase.as" filetype="as" />
             <project_file path="./com/ui/WordShuffle.as" filetype="as" />
+            <project_file path="./com/ui/ChoiceTest.as" filetype="as" />
+            <project_file path="./com/ui/ChoiceItem.as" filetype="as" />
         </project_folder>
         <project_folder name="core" expanded="true">
             <project_file path="./com/core/Utils.as" filetype="as" />
