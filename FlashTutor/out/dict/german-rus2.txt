@@ -2,7 +2,7 @@
 bekommen: получать
 bieten: предлагать
 entscheiden: решаться
-entshuldigen: извинять
+entschuldigen: извинять
 fahren: ехать
 funktionieren: функционировать
 gehen: идти
@@ -13,50 +13,50 @@ sagen: говорить
 spülen: полоскать
 stimmen: голосовать
 waschen: мыть
-weschseln: менять
-die_Antwort(-en): ответ
-das_Auto(-s): авто
-die_Batterie(-n): батарея
-das_Benzin: бензин
-das_Bett(-en): кровать
-das_Bild(-er): картина
-der_Fehler(-): ошибка
-der_Fernsehapparat(-e): телевизор
-das_Foto(-s): фото
-das_Geld: деньги
-das_Geschäft(-e): магазин
-die_Gruppe(-n): группа
-das_Haus(-er): дом
-das_Handy(-s): мобильный телефон
-der_Haushalt(-e): обиход
-der_Herd(-e): плита
-die_Idee(-n): идея
-die_Kamera(-s): камера
-die_Karte(-n): карта
-die_Kassette(-n): касета
-die_Küche(-n): кухня
-der_Kugelschreiber: шариковая ручка
-der_Kühlschrank(-e): холодильник
-die_Lampe(-n): лампа
-die_Minute(-n): минута
-die_Person(-en): персона
-das_Problem(-e): проблема
-das_Programm(-e): программа
-das_Radio(-s): радио
-das_Regal(-e): полка
-der_Schrank(-e): шкаф
-die_Steckdose(-n): розетка
-der_Steker(-): штекер
-der_Stuhl(-e): стул
-der_Tisch(-e): стол
-der_Topf(-e): кастрюля, горшок
-die_Uhr(-en): часы
-das_Waschbecken(-): умывальник
-die_Waschmaschine(-n): стиральная машина
-der_Wasserhahn(-e): кран
-der_Wert(-e): цена, значение
-das_Wort(-er): слово
-die_Zeit: время
+wechseln: менять
+die Antwort(-en): ответ
+das Auto(-s): авто
+die Batterie(-n): батарея
+das Benzin: бензин
+das Bett(-en): кровать
+das Bild(-er): картина
+der Fehler(-): ошибка
+der Fernsehapparat(-e): телевизор
+das Foto(-s): фото
+das Geld: деньги
+das Geschäft(-e): магазин
+die Gruppe(-n): группа
+das Haus(-er): дом
+das Handy(-s): мобильный телефон
+der Haushalt(-e): обиход
+der Herd(-e): плита
+die Idee(-n): идея
+die Kamera(-s): камера
+die Karte(-n): карта
+die Kassette(-n): касета
+die Küche(-n): кухня
+der Kugelschreiber: шариковая ручка
+der Kühlschrank(-e): холодильник
+die Lampe(-n): лампа
+die Minute(-n): минута
+die Person(-en): персона
+das Problem(-e): проблема
+das Programm(-e): программа
+das Radio(-s): радио
+das Regal(-e): полка
+der Schrank(-e): шкаф
+die Steckdose(-n): розетка
+der Stecker (-): штекер
+der Stuhl(-e): стул
+der Tisch(-e): стол
+der Topf(-e): кастрюля, горшок
+die Uhr(-en): часы
+das Waschbecken(-): умывальник
+die Waschmaschine(-n): стиральная машина
+der Wasserhahn(-e): кран
+der Wert(-e): цена, значение
+das Wort(-er): слово
+die Zeit: время
 ähnlich: похожий
 bequem: удобный
 ehrlich: правдивый
@@ -74,5 +74,5 @@ es: это
 oder: или
 sondern: а  
 zu: к
-alle_sein: закончено
-aus_sein:  выключено
+alle sein: закончено
+aus sein:  выключено

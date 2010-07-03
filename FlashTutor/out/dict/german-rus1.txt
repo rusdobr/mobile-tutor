@@ -18,49 +18,49 @@ studieren: изучать
 warten: ожидать
 werden: становиться
 wohnen: проживать
-der_Alter: возраст
-der_Auslander: иностранец
-der_Beruf: профессия
-Deutchland: Германия
-die_Eltern: родители
-der_Familienname: фамилия
-der_Familiestand: семейное положение
-der_Fotograf: фотограф
-die_Frau: госпожа
-der_Geburtstag: день роождения
-die_Hausfrau: домохозяйка
-der_Herr: господин
-das_Hobby: хобби
-das_Jahre: год
-der_Kaufman: бизнесмен
-die_Kauffrau: бизнесменша
-das_Kind: ребенок
-die_Kinder: дети
-der_Kurs: кирс
-das_Land: страна
-die_Leute: люди
-die_Lösung: решение
-der_Mechaniker: механик
-der_Monat: месяц
-die_Monate: месяцы
-der_Ort: район
+der Alter: возраст
+der Ausländer: иностранец
+der Beruf: профессия
+Deutschland: Германия
+die Eltern: родители
+der Familienname: фамилия
+der Familienstand: семейное положение
+der Fotograf: фотограф
+die Frau: госпожа
+der Geburtstag: день роождения
+die Hausfrau: домохозяйка
+der Herr: господин
+das Hobby: хобби
+das Jahre: год
+der Kaufmann: бизнесмен
+die Kauffrau: бизнесменша
+das Kind: ребенок
+die Kinder: дети
+der Kurs: кирс
+das Land: страна
+die Leute: люди
+die Lösung: решение
+der Mechaniker: механик
+der Monat: месяц
+die Monate: месяцы
+der Ort: район
 Österreich: Автрия
 Postkarte: почтовая открытка
 Postleitzahl: почтовый индекс
-die_Schülerin: школьница
-die_Seite: страница
-die_Sekretärin: секретарша
-die_Straße: улица
-der_Student: студент
-die_Studentin: студентка
-der_Tag: день
-die_Tage: дни
-das_Telefon: телефон
-die_Telefonnummer: номер телефона
-der_Vorname: имя
-der_Wort: слово
-die-Zahl: число
-die_Zahlen: числа
+die Schülerin: школьница
+die Seite: страница
+die Sekretärin: секретарша
+die Straße: улица
+der Student: студент
+die Studentin: студентка
+der Tag: день
+die Tage: дни
+das Telefon: телефон
+die Telefonnummer: номер телефона
+der Vorname: имя
+der Wort: слово
+die Zahl: число
+die Zahlen: числа
 alt: старый
 berufstätig: профессиональный
 frei: свободный
@@ -76,10 +76,10 @@ erst: лишь
 etwa: почти
 hier: здесь
 jetzt: теперь
-lieder: к сожалению
+leider: к сожалению
 nicht: не
 noch: еще
-noch_einmal: еще раз
+noch einmal: еще раз
 schon: уже
 übrigens: между прочим
 aber: но
@@ -98,7 +98,7 @@ von: из
 was?: что?
 wer?: кто?
 wie?: как?
-wie_viel?: сколько? 
+wie viel?: сколько? 
 wo?: где?
 woher?: откуда
 wohin?: куда?

@@ -11,88 +11,88 @@ kennen: мочь
 kochen: готовить
 mögen: желать
 nehmen: брать
-sehmecken: пробовать
+schmecken: пробовать
 trinken: пить
 üben: заниматься
-das_Abendessen: ужин
-der_Alkohol: алкоголь
-die_Anzeige: объявление
-der_Apfel: яблоко
-das_Bier: пиво
-die_Bohne: бобы
-das_Brot: хлеб
-das_Brötchen: булка
-die_Butter: масло
-die_Dose: банка
-das_Ei: яйца
-das_Eis: мороженное
-die_Erdbeere: клубника
-der_Euro: евро
-der_Export: экспорт
-der_Fisch: рыба
-die_Flasche: бутылка
-das_Fleisch: мясо
-die_Frage: вопрос
-die_Frucht: фрукт
-das_Frühstück: завтрак
-die_Gabel: вилка
-der_Gasthof: гостиница
-das_Gemüse: овощи
-das_Gericht: суд
-das_Gespräch: разговор
-das_Getränk: напиток
-das_Gewürz: специи
-das_Glas: стакан
-das_Gramm: грамм
-das_Hähnchen: цыпленок
-der_Kaffee: кофе
-die_Kartoffel: картофель
-der_Käse: касса
-das_Kilo: килограм
-die_Kiste: ящик
-das_Kotlett: котлета
-der_Kuchen: пирог
-die_Limonade: лимонад
-der_Liter: литр
-der_Löffel: ложка
-die_Marmelade: мармелад
-das_Mehl: мука
-das_Messer: нож
-die_Milch: молоко
-das_Mineralwasser: мин. вода
-der_Nachtisch: десерт
-der_Obstkuchen: фруктовый пирог
-das_Öl: растительное масло
-der_Pfeffer: перец
-das_Pfund: фунт
-der_Preis: цена
-der_Reis: рис
-der_Rotwein: красное вино
-der_Saft: сок
-die_Sahne: сливки
-der_Salat: салат
-der_Schinken: шинка
-die_Schokolade: шоколад
-die_Soße: соус
-die_Speisekarte: меню
-das_Spülmittel: моющее средство
-das_Steak: стейк
-die_Suppe: суп
-die_Tasse: чашка
-der_Tee: чай
-der_Teller: тарелка
-die_Tomate: помидор
-die_Vorspeise: закуска
-die_Wäsche: стирка
-die_Wurst: колбаса
-der_Zettel: стикер
-der_Zucker: сахар
-die_Zwiebel: лук
+das Abendessen: ужин
+der Alkohol: алкоголь
+die Anzeige: объявление
+der Apfel: яблоко
+das Bier: пиво
+die Bohne: бобы
+das Brot: хлеб
+das Brötchen: булка
+die Butter: масло
+die Dose: банка
+das Ei: яйца
+das Eis: мороженное
+die Erdbeere: клубника
+der Euro: евро
+der Export: экспорт
+der Fisch: рыба
+die Flasche: бутылка
+das Fleisch: мясо
+die Frage: вопрос
+die Frucht: фрукт
+das Frühstück: завтрак
+die Gabel: вилка
+der Gasthof: гостиница
+das Gemüse: овощи
+das Gericht: суд
+das Gespräch: разговор
+das Getränk: напиток
+das Gewürz: специи
+das Glas: стакан
+das Gramm: грамм
+das Hähnchen: цыпленок
+der Kaffee: кофе
+die Kartoffel: картофель
+der Käse: сыр
+das Kilo: килограм
+die Kiste: ящик
+das Kotelett: котлета
+der Kuchen: пирог
+die Limonade: лимонад
+der Liter: литр
+der Löffel: ложка
+die Marmelade: мармелад
+das Mehl: мука
+das Messer: нож
+die Milch: молоко
+das Mineralwasser: мин. вода
+der Nachtisch: десерт
+der Obstkuchen: фруктовый пирог
+das Öl: растительное масло
+der Pfeffer: перец
+das Pfund: фунт
+der Preis: цена
+der Reis: рис
+der Rotwein: красное вино
+der Saft: сок
+die Sahne: сливки
+der Salat: салат
+der Schinken: шинка
+die Schokolade: шоколад
+die Soße: соус
+die Speisekarte: меню
+das Spülmittel: моющее средство
+das Steak: стейк
+die Suppe: суп
+die Tasse: чашка 
+der Tee: чай
+der Teller: тарелка
+die Tomate: помидор
+die Vorspeise: закуска 
+die Wäsche: стирка
+die Wurst: колбаса
+der Zettel: стикер
+der Zucker: сахар
+die Zwiebel: лук
 billig: дешевый
 bitter: горький
 dunkel: темный
 eng: тесный узкий
-fantastish: фантастический
+fantastisch: фантастический
 fett: жирный
 frisch: свежий
 groß: большой
@@ -111,7 +111,7 @@ sauer: кислый
 scharf: острый
 schlank: худой
 stark: сильный
-suß: сладкий
+süß: сладкий
 trocken: сухой
 typisch: типичный
 warm: теплый
@@ -134,13 +134,13 @@ nur: только
 oben: наверху, вверху
 oft: часто
 so: так
-sofot: сейчас же
+sofort: сейчас же
 überall: везде
 unten: внизу
 verschieden: разный, некоторые
 vorwiegend: предпочтительный
 zuerst: во первых
-zasammen: вместе
+zusammen: вместе
 alle: все
 als: как
 doch: да (утверждение)
@@ -153,8 +153,5 @@ viel: много
 welcher?: какой?
 es gibt: имеется
 vor allem: так как, перед тем
-das_Gramm: грамм
-das_Kilogramm: килограмм
-
-
-
+das Gramm: грамм
+das Kilogramm: килограмм
