@@ -29,9 +29,10 @@ class com.core.Dictionary extends EventDispatcher {
 	}
 	private function _parse(data:String) {
 		_words = [];
-		var rows = data.split ('\r\n');
+		var rows = data.split ('\n');
 		for (var i=0; i<rows.length; ++i) {
 			var row = Utils.str_trim(rows[i]);
+			row = Utils.str_trim(row, '\r');
 			if (row.length > 0){
 				var pair:Array = row.split(': ');
 				pair.id = i;
