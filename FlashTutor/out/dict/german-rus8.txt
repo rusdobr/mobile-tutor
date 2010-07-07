@@ -1,0 +1,84 @@
+﻿besorgen: получать
+einzahlen: депозит
+erledigen: ручка
+fehlen: отсутствие
+fliegen: летать
+kaufen: купить
+legen: лежать
+reinigen: чистый
+schicken: послать
+stehen: стенд
+stellen: предоставлять
+übernachten: остановиться
+verwenden: использовать
+wechseln: изменение
+ziehen: рисовать
+zurückgeben: возвращение
+die Abfahrt: Выход
+das Auskunft: Информация
+die Bäckerei (-en): Пекарня
+die Bahn (-en): Поезд
+die Briefmarke (n): Печать
+die Buchhandlung (-en): Книжный магазин
+der Bürger: Гражданин
+der Bus (-se): Автобус
+das Ding (-e): Вещь
+die Ecke (-n): Угол
+die Erwachsener: Для взрослых
+das Europa: Европа
+die Fahrakte (-n): Fahrakte
+der Fahrplan: График
+die Fahrt: Ездить
+der Flughafen: Аэропорт
+das Flugzeug (-e): Самолет
+die Freiheit (-en): Свобода
+das Gebäude: Здание
+das Interesse (-n): Интерес
+die Kirche (-n): Церковь
+die Kleidung: Одежда
+der Krieg (-e): Война
+die Künstler: Художник
+der Mäntel: Пальто
+die Mauer (-n): Стена
+die Metzgerei (-en): Мясной магазин
+die Mitte: Средний
+das Museum: Музей
+der Norden: К северу
+die Oper (-n): Опера
+der Osten: На восток
+das Paket (-e): Пакет
+der Park (-s): Парк
+der Pass: Пасс
+der Platz: Место
+die Post: Пост
+das Rathaus: Ратуша
+die Reinigung: Уборка
+der Rest: Отдых
+dar Schalter: переключатель
+der See: Озеро
+der Stadtplan: Карта
+der Süden: На юг
+der Teil: Часть
+das Tor (-e): Ворота
+der Turm: Башня
+die Wahl (-en): Выборы
+der Weg (-e): Путь
+der Westen: На запад
+das Zentrum: Центр
+arbeitslos: безработные
+berühmt: знаменитый
+deutsch: Немецкий
+früher: ранее
+sozial: социально
+voll: полный
+anders: другой
+geradeaus: прямой
+links: слева
+rechts: право
+völlig: полностью
+weiter: больше
+bis zu: вплоть до
+so wie: как
+über nach: к
+von nach: от до
+Schluss: Конец
