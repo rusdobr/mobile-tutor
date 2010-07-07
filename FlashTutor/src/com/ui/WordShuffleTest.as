@@ -150,6 +150,9 @@ class com.ui.WordShuffleTest extends com.ui.PanelBase
 		}
 	}
 	private function __onSampleButtonPress(press_btn:Button) {
+		if(_timer != 0){
+			return;
+		}
 		var letter:String = press_btn._parent.letter;
 		if (letter == _currentWord.word.charAt(_currentLetterIndex)) {
 			this._removeSampleButton(press_btn._parent);
@@ -191,6 +194,7 @@ class com.ui.WordShuffleTest extends com.ui.PanelBase
 			_timer = setInterval(
 				function (){
 					clearInterval(me._timer);
+					me._timer = 0;
 					me._nextWord()
 				},
 				timeout
@@ -226,6 +230,7 @@ class com.ui.WordShuffleTest extends com.ui.PanelBase
 		_removeLetters();
 		_removeSamples();
 		clearInterval(_timer);
+		_timer = 0;
 		super.finalize();
 	}
 }

@@ -139,6 +139,9 @@ class com.ui.ChoiceTest extends com.ui.PanelBase
 		}
 	}
 	private function __onSampleButtonPress(press_btn:Button) {
+		if(_timer != 0){
+			return;
+		}
 		var sample_id:Number = press_btn._parent.sample_id;
 		if (sample_id == _correctId) {
 			this._displayWord();
@@ -157,6 +160,7 @@ class com.ui.ChoiceTest extends com.ui.PanelBase
 			_timer = setInterval(
 				function (){
 					clearInterval(me._timer);
+					me._timer = 0;
 					me._removeSamples();
 					me._nextWord()
 				},
@@ -191,6 +195,7 @@ class com.ui.ChoiceTest extends com.ui.PanelBase
 	public function finalize(){
 		_removeSamples();
 		clearInterval(_timer);
+		_timer = 0;
 		super.finalize();
 	}
 }
