@@ -54,7 +54,7 @@ die Post: Пост
 das Rathaus: Ратуша
 die Reinigung: Уборка
 der Rest: Отдых
-dar Schalter: переключатель
+der Schalter: переключатель
 der See: Озеро
 der Stadtplan: Карта
 der Süden: На юг
