@@ -1,0 +1,79 @@
+﻿behalten: держать
+beraten: консультировать
+einschalten: включать
+erklären: объяснять
+freuen: радовать
+gebrauchen: использовать
+gefallen: нравиться
+laufen: бежать
+lieben: любитьь
+nennen: называть
+passen: соответствовать
+reichen: подавать, протягивать
+schenken: давать
+sterben: умереть
+tragen: носить
+verkaufen: продавать
+verlassen: отпуск
+zeigen: шоу
+zusammengehören: подходить друг к другу
+der Abschnitt (-e): Раздел
+die Bekannte (-n): Знакомство
+die Beschäftigung (-en): Занятость
+das Camping: Кемпинг
+die Chance (-n): Шанс
+die Erinnerung (-en): Память
+die Feier (-n): Празднование
+der Fernseher: телевизор
+das Feuerzeug (-e): Легче
+der Geburtstag (-e): День рождения
+das Gerät (-e): Устройство
+die Großstadt (-e): Город
+die Handtasche (-n): Сумка
+die Hilfe: Помощь
+das Holz: Дерево
+das Huhn (-er): Курица
+der Hund (-e): Собака
+die Kette (-e): Цепь
+das Klima: Климат
+der König (-e): Царь
+die Kuh (-e): Корова
+der Kunde (-n): Клиент
+Möbel: Мебель
+das Motorrad (-er): Мотоцикл
+die Party (-s): Участник
+die Pfeife (-en): Труба
+das Pferd (-e): Лошадь
+die Platte (-n): Плита
+der Plattenspieler: Запись игрока
+das Rad (-er): Колесо
+der Reiseführer: Путеводитель
+der Ring: Кольцо
+die Schallplatte (-n): Запись
+der Schlafsack (-e): Спальный мешок
+der Schluss: Конец
+der Schmuck: Ювелирные изделия
+die Schreibmaschine (-n): Пишущая машинка
+der Strom: Ток
+die Tante (-e): Тетка
+das Tier (-e): Животное
+die Verkäuferin (-nen): Продавщица
+das Weihnachten: Рождество
+das Werkzeug (-e): Инструмент
+das Wörterbuch (-er): Словарь
+das Zelt (-e): Палатка
+breit: широкий
+dünn: тонкий
+kurz: краткий
+lang: длинный
+langsam: медленно
+lebendig: живой
+niedrig: низкий
+richtig: правильный
+schmal: узкий
+schnell: быстро
+wunderbar: чудесный
+irgendwann: когда-нибудь
+deshalb: поэтому
+selber: сам
+zu Ende: к концу
