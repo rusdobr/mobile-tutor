@@ -6,7 +6,7 @@ freuen: радовать
 gebrauchen: использовать
 gefallen: нравиться
 laufen: бежать
-lieben: любитьь
+lieben: любить
 nennen: называть
 passen: соответствовать
 reichen: подавать, протягивать
