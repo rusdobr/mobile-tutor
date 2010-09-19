@@ -1,0 +1,67 @@
+﻿anbieten: предложение
+anfangen: начинать
+aufhören: остановить
+aussuchen: выбирать
+beginnen: начинать
+bestimmen: определять
+bewerden: bewerden
+dauern: последний
+kämpfen: бороться
+lösen: решить
+stimmen: голосование
+überlegen: начальник
+verdienen: заслуживать
+versprechen: обещание
+vorbereiten: готовить
+zuhören: слушать
+die Anziege (-n): Показать избранные
+die Aufgabe (-n): Задача
+der Augenblick (-e): Момент
+die Ausbildung: Обучение
+der Betrieb (-e): Операция
+die Bewerbung (-en): Применение
+das Gehalt (-er): Содержание
+der Grund (-e): Причина
+die Hauptsache (-n): Основной
+das Inland: Дома
+die Kantine (-n): Столовая
+der Kindergarten: Детский сад
+die Klasse (-n): Класс
+die Lehre (-n): Обучение
+die Möglichkeit (-en): Возможность
+der Monat (-e): Месяц
+der Nachteil (-e): Невыгодное положение
+das Problem (-e): Проблема
+die Prüfung (-en): Тест
+die Sicherheit: Безопасность
+der Vertrag (-e): Контракт
+der Vorteil (-e): Преимущество
+die Wirtschaft: Экономика
+das Zeugnis (-se): Свидетельские показания
+die Zukunft: Будущее
+anstrengend: изнурительный
+ausgezeichnet: отличный
+bakannt: держать себя
+dringend: срочный
+geehrt: заслуженный
+leicht: немного
+sauber: чистый
+schlecht: плохой
+schlimm: плохой
+schmutzig: грязный
+schwer: трудный
+selbständig: самостоятельно
+toll: большой
+wichtig: важный
+hiermit: настоящим
+je: когда-либо
+mindestens: по крайней мере
+sicher: конечно
+dann: затем
+denn: потому что
+deshalb: поэтому
+mehrere: несколько
+obwohl: хотя
+seit: с
+trotzdem: тем не менее
+weil: потому что
