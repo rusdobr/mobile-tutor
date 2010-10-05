@@ -1,0 +1,66 @@
+﻿ärgern: раздражать
+aufregen: волновать
+auspacken: распаковівать
+ausruhen: выдергивать
+benutzen: использовать
+beschweren: обременять
+bitten: просить
+erzählen: рассказывать
+geschehen: происходить
+küssen: целовать
+lachen: смеяться
+leihen: занимать
+nützen: приносить пользу
+reden: разговаривать
+sammeln: собирать
+verbieten: запрещать
+vergleichen: сравнивать
+weinen: плакать
+der Ausgang: выход
+der Bart: борода
+der Baum: дерево
+der Bericht: отчет
+der Eingang: вход
+der Fall: случай
+der Gedanke: мысль
+die Gefahr: опасность
+der Gewinn: выиграш
+der Glückwunsch: поздравление
+der Hammer: молоток
+der Himmel: небо
+der Hut: шляпа
+die Illustrierte: иллюстрационный журнал
+der Kasten: ящик
+das Kaufhaus: универмаг
+der Krach: шум
+der Laden: магазин
+das Leid: горе
+die Nachricht: новость
+die Sache: одежда
+der Sinn: смысл
+die Unterhaltung: развлечение
+die Vorstellung: представление
+die Werbung: раклама
+die Wissenschaft: наука
+der Zuschauer: зритель
+europäisch: европейский
+fein: утонченный
+feucht: влажный
+gewöhnlich: обычный, заурядный
+günstig: благоприятный
+öffentlich: общественный, публичный, гласный
+regelmaßig: ???
+schweirig: трудный
+tot: мертвый
+weit: далекий
+besonders: особо
+einige: несколько
+extra: дополнительно
+genauso: точно так же
+kaum: едва
+solch: такой
+überhaupt nicht: вообще нет
+vielleicht: возможно
+weningstens: по крайней мере
+zuletzt: наконец
+
