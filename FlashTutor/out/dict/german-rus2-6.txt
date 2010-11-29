@@ -1,0 +1,96 @@
+﻿denken an: думать о
+feiern: праздновать
+fließen: течь, литься, струиться
+herstellen: изготовлять, производить
+mitmachen: принимать участие
+mitnehmen: брать с собой
+produzieren: производить, выпускать
+es regnet: идёт дождь
+scheinen: светить, сиять
+schneien: снежить
+trennen: разделять, разъединять
+übernachten: (пере)ночевать
+verbrennen: сжигать
+wegwerfen: выбрасывать
+werfen: бросать, кидать
+zeigen: показывать
+der Abfall: отбросы; отходы
+der Ausflug: экскурсия; загородная прогулка
+der Bach: ручей
+der Bäcker: пекарь, булочник
+der Berg: гора
+der Boden: земля, грунт, почва
+das Dorf: деревня; село
+die Dose (-n): коробочка; банка
+das Drittel: треть
+das Eis: лёд
+die Energie: энергия
+das Feld: поле
+dar Filter: фильтр
+das Fleisch: мясо
+der Frühling: весна
+das Gebirge: горы
+das Gemüse: овощи, зелень
+das Getränk: напиток, питьё
+das Gewitter: гроза
+das Gift: яд, отрава
+das Grad (-e): градус
+die Grenze (-n): граница
+dar Handel: торговля
+der Hügel: холм, пригорок
+die Insel (-n): остров
+der Käse: сыр
+der Kunststoff: синтетический материал; пластмасса
+das Land: страна
+die Landkarte (-n): географическая карта
+die Luft: воздух
+das Meer (-e): море
+die Menge (-n): множество
+der Nebel: туман
+die Pflanze: растение
+das Plastik: пластика
+der Rasen: газон
+der Regen: дождь
+der Saft: сок
+das Schiff: корабль
+der Schnee: снег
+der Schnupfen: насморк
+die See: озеро
+die Sonne (-n): солнце
+der Stoff (-e): ткань, материал
+der Strand: морской берег; пляж
+die Strecke (-n): расстояние
+das Tal: долина
+das Taschentuch: носовой платок
+der Teil: часть, доля
+die Temperatur: температура
+die Tonne: бочка
+das Ufer: берег; побережье
+der Wald: лес
+der Wein: вино
+der Wetterbericht: метеорологическая сводка, сводка погоды
+die Wiese: луг
+der Wind: ветер
+die Woche: неделя
+der Wohnort (-e): место жительства, местожительство
+die Wurst: колбаса
+die Zeichnung: рисунок
+allmählich: постепенно
+besser: лучше
+flach: плоский; низкий
+folgend: следующий
+gleichzeitig: одновременный
+heiß: жаркий
+herrlich: великолепный, прекрасный
+ideal: идеальный
+kalt: холодный
+kühl: прохладный, свежий
+meist-: (наи)больший
+nass: мокрый
+persönlich: личный, собственный
+sonnig: солнечный
+stark: сильный
+täglich: ежедневный; повседневный
+trocken: сухой
+warm: тёплый
+
