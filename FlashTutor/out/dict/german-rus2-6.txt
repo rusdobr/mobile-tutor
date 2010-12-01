@@ -45,6 +45,8 @@ das Land: страна
 die Landkarte (-n): географическая карта
 die Luft: воздух
 das Meer (-e): море
+das Mittelgebirge: горы средней высоты
+der See: море 
 die Menge (-n): множество
 der Nebel: туман
 die Pflanze: растение
@@ -55,7 +57,7 @@ der Saft: сок
 das Schiff: корабль
 der Schnee: снег
 der Schnupfen: насморк
-die See: озеро
+der See: озеро 
 die Sonne (-n): солнце
 der Stoff (-e): ткань, материал
 der Strand: морской берег; пляж
@@ -93,4 +95,7 @@ stark: сильный
 täglich: ежедневный; повседневный
 trocken: сухой
 warm: тёплый
+feucht: влажный; сырой
+tief: глубокий
+nass: мокрый, сырой, влажный
 
