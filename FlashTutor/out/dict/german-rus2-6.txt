@@ -36,7 +36,7 @@ das Gewitter: гроза
 das Gift: яд, отрава
 das Grad (-e): градус
 die Grenze (-n): граница
-dar Handel: торговля
+der Handel: торговля
 der Hügel: холм, пригорок
 die Insel (-n): остров
 der Käse: сыр
