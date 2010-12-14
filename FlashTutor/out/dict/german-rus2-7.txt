@@ -1,0 +1,58 @@
+﻿beantragen: подавать заявление
+besorgen: заниматься
+bestellen: заказывать
+einigen (über): договориться
+einwandern: переселяться
+empfehlen: рекомендовать
+erkennen: узнавать, распознавать
+erledigen: закончить
+gelten: быть действительным
+gewöhnen: приучать
+glauben: верить
+klagen: жаловаться, сетовать
+reinigen: чистить
+reisen: путешествовать
+steigen: вставать
+üben: упражняться
+untersuchen: исследовать, осматривать
+verlassen: уходить, выходить, уезжать
+vorschlagen: предлагать
+waschen: мыть; умывать
+wiegen: взвешивать
+zumachen: закрывать
+die Änderung (-en): изменение, перемена; переделка
+die Art (-en): вид
+die Bedienung (-en): обслуживание
+das Blatt: лист
+das Camping: проживание [отдых] в кемпинге
+das Einkommen: доход
+die Erfahrung (-en): опыт
+das Gefühl (-e): чувство; ощущение
+das Handtuch: полотенце
+die Heimat: родина
+das salz: соль
+der Schirm: зонт, зонтик
+der Schlüssel: ключ
+die Schwierigkeit (-en): трудность, затруднение
+die Seife (-n): мыло
+das Streichholz: спичка
+die Tasche (-n): карман, сумка, портфель
+der Zweck (-e): цель
+berufstätig: работающий ( по специальности )
+durstig: испытывать жажду
+eben: ровный, гладкий, плоский
+notwendig: необходимый, нужный
+sozial: социальный, общественный
+vorig: прошлый
+zuverlässig: надёжный; достоверный
+außerhalb: за пределами
+höchstens: самое большее, не более
+normalerweise: обычно
+oben: наверху, вверху
+überhaupt: вообще
+unten: внизу
+damit: чтобы, этим
+daran: на нём
+darauf: после этого, затем, потом
+derselbe: тот же (самый)
+sondern: но, а

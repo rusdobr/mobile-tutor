@@ -26,7 +26,7 @@ das Drittel: треть
 das Eis: лёд
 die Energie: энергия
 das Feld: поле
-dar Filter: фильтр
+der Filter: фильтр
 das Fleisch: мясо
 der Frühling: весна
 das Gebirge: горы
