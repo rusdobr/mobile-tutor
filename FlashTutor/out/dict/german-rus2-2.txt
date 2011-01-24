@@ -1,19 +1,19 @@
-﻿anbieten: предложение
+﻿anbieten: предлагать
 anfangen: начинать
-aufhören: остановить
-aussuchen: выбирать
+aufhören: переставать
+aussuchen: подыскивать
 beginnen: начинать
 bestimmen: определять
-bewerden: bewerden
-dauern: последний
+bewerden: подать заявление
+dauern: длиться
 kämpfen: бороться
 lösen: решить
 stimmen: голосование
-überlegen: начальник
-verdienen: заслуживать
-versprechen: обещание
+überlegen: пробумывать
+verdienen: зарабатывать
+versprechen: обещать
 vorbereiten: готовить
-zuhören: слушать
+zuhören: прослушивать
 die Anziege (-n): Показать избранные
 die Aufgabe (-n): Задача
 der Augenblick (-e): Момент
