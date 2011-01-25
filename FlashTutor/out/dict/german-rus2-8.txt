@@ -1,0 +1,59 @@
+﻿annehmen: принимать, предполагать, допускать
+begleiten: провожать; сопровождать
+beschließen: решать, постановлять
+entscheiden: решать
+entschließen: решить, принять решение
+erinnern: напоминать
+erreichen: достать, дотянуться
+folgen: следовать
+führen: руководить, возглавлять
+gewinnen: выигрывать
+nennen: называть
+öffnen: раскрывать, открывать
+rufen: кричать
+schließen: закрывать, захлопывать
+streiken: бастовать
+unterschreiben: подписывать
+verreisen: уезжать
+wählen: выбирать
+die Armee (-n): армия
+der Aufzug (-e): лифт; подъёмник
+die Ausreise: выезд
+der Bau: постройка, здание, строение
+der Beginn: начало
+der Briefumschlag (-e): почтовый конверт
+der Bund: союз
+der Empfang (-e): приём, получение
+das Ereignis (-en): событие; происшествие
+das Feuer: пламя
+der Friede (-n): мир; согласие
+das Geschäft (-e): дело, занятие
+die Geschichte: история, рассказ
+die Gesellschaft: общество
+der Krieg (-e): война
+die Macht: власть
+das Mitglied (-er): член
+der Raucher: курильщик, курящий
+die Regierung (-en): правительство, правление
+das Schloß: замок, дворец
+die Umwelt: окружающая среда, окружение
+das Unglück: несчастный случай
+der Unterschied: разница, различие
+die Verletzung (-en): ранение
+die Wahl: выбор
+das Ziel: цель
+der Zoll: пошлина
+ausländisch: иностранный
+dankbar: благодарный, признательный
+eng: тесно, плотно
+enttäuscht: разочаровывать
+verletzt: поранить
+völlig: полный
+wahrscheinlich: вероятный; возможный
+westlich: западный
+allerdings: конечно, разумеется
+beinahe: почти; чуть (было) не, едва не
+bisschen: немного
+während: во время, в продолжение, в течение
+wegen: из-за ( чего-л. ), благодаря
+
