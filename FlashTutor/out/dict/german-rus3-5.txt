@@ -1,0 +1,59 @@
+﻿abnehmen: убавлять
+auswählen: выбирать
+beachten: принимать во внимание
+beschließen: решать
+betreuen: сопровождать, руководить
+bewegen: двигать
+einstellen: принимать на работу
+entwickeln: развивать
+erhalten: получать
+erstellen: устанавливать
+klappen: идти на лад
+kümmern: заботиться
+leiten: руководить
+pflegen: ухаживать
+schlagen: бить
+sorgen: беспокоиться, хлопотать
+treffen: встречать
+überzeugen: убеждаьть
+verbessern: улучшать
+verlangen: требовать
+versuchen: пытаться
+vorbereiten: готовиться
+vorstellen: представлять
+weinen: плакать
+wiegen: весить
+verhandeln: вести переговоры
+entlassen: увольнять
+vermuten: предполагать, догадываться
+erledigen: закончить
+das Abitur: аттестат зрелости
+die Abteilung -en: отделение
+der Auftrag -äge: заказ
+die Ausbildung -en: образование
+der Ausdruck -üke: выражение
+der Betrieb -e: предприятие
+die Bewerbung -e: заявление
+das Blut: кровь
+der Eingang -änge: вход
+die Erfindung -en: изобретение
+der Erfolg -e: успех
+die Erlaubnis -se: разрешение
+die Fremdsprache -n: иностранный язык
+das Gehalt -älter: содержание
+das Geschäft -e: дело
+das Material -ien: материал
+die Stimmung -en: настроение
+die Tätigkeit -en: деятельность
+der Teich -e: пруд
+die Untersuchung -en: исследование
+die Werbung: реклама
+das Zeugnis: свидетельство
+der Zweck -e: цель
+deutlich: отчетливо
+höflich: вежливо
+notwendig: необходимо
+persönlich: лично
+praktisch: практически
+
+

@@ -1,8 +1,10 @@
 <config>
 	<dict>
+		<!-- 
 		<item label="Lektion2" ver="0" url="german-rus2.txt"/>
 		<item label="Lektion3" ver="0" url="german-rus3.txt"/>
 		<item label="Lektion4" ver="0" url="german-rus4.txt"/>
+		-->
 		<item label="Lektion8" ver="0" url="german-rus8.txt"/>
 		<item label="Lektion9" ver="0" url="german-rus9.txt"/>
 		<item label="Lektion 2-2" ver="0" url="german-rus2-2.txt"/>
@@ -10,7 +12,8 @@
 		<item label="Lektion 2-6" ver="0" url="german-rus2-6.txt"/>
 		<item label="Lektion 2-7" ver="0" url="german-rus2-7.txt"/>
 		<item label="Lektion 2-8" ver="0" url="german-rus2-8.txt"/>
-		<item label="Lektion 2-8" ver="0" url="german-rus2-9.txt"/>
+		<item label="Lektion 2-9" ver="0" url="german-rus2-9.txt"/>
+		<item label="Lektion 3-5" ver="0" url="german-rus3-5.txt"/>
 		<item label="Adverb" ver="0" url="german-rus11.txt"/>
 <!--		<item label="Deutsch 1017" ver="0" url="ger1017.txt"/> -->
 <!--		<item label="Deutsch big" ver="0" url="german-rus0.txt"/> -->
