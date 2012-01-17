@@ -1,0 +1,56 @@
+﻿annehmen: принимать
+ärgern: раздражать
+benutzen: использовать
+bleiben: оставаться
+einstellen: принимать на работу
+entwickeln: развивать
+finden: находить
+gehören: принадлежать
+leisten: совершать
+melden: сообщать
+retten: спасать
+setzen: поставить
+stecken: втыкать
+töten: убивать
+überraschen: удивлять
+überweisen: направлять
+verabreden: договариваться
+verbringen: проводить
+vermuten: предполагать
+verleiten: склонять
+vorbereiten: подготавливать
+vorstellen: представлять
+wünschen: желать
+zählen: считать
+zurückrufen: перезвонить
+die Anleitung (-en): руководство, инструктаж
+die Ansage (-n): объявление
+das Attest: медицинское заключение
+die Bedienung: обслуживание
+das Blatt: лист
+der Briefträger: почтальон
+der Briefumschlag: (почтовый) конверт
+der Bürgermeister: бургомистр
+der Drucker: принтер
+das Ergebnis: результат
+der Ernst: серьёзность
+das Formular: бланк, формуляр
+die Gefahr: опасность
+der Kopierer: копир
+die Quittung: квитанция
+die Sorge: беспокойство
+die Tastatur: клавиатура
+die Verabredung: договоренность
+erreichbar: достижимый; доступный
+geschickt: умело
+klug: мудрый
+neugierig: любопытный
+nützlich: полезный
+ab und zu: время от времени
+häufig: часто
+manchmal: иногда, порой
+nämlich: а именно
+samstags: по субботам
+selten: редко
+unterwegs: в пути
+
