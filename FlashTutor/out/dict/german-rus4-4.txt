@@ -1,0 +1,55 @@
+﻿abbrechen: отламывать, обламывать
+ablenken: отклонять
+ansehen: смотреть на
+anstarren: пристально смотреть, уставиться
+aufpassen: внимательно слушать
+beenden: оканчивать
+durchfallen: провалиться
+eintreten in +Akk: вступать
+empfinden: 
+entschuldugen: 
+erwarten: 
+fühlen zu: 
+herkommen: 
+hinschreiben: 
+loslassen: 
+mitteilen: 
+sich erkundigen nach: 
+sitzen bleiben: 
+vergehen: 
+verstehen: 
+vorwerfen: 
+zerbrechen: 
+zerreißen: 
+zerschlagen: 
+das Abitur: 
+das Abschlusszeugnis (-se): 
+die Begabung (-en): 
+die Berufsausbildung (-en): 
+die Berufsschule (-n): 
+der Bildungweg (-e): 
+die Bücherei (-en): 
+die Chemie: 
+die Erkunde: 
+das Fach (-er): предмет; специальность
+die Geographie: география
+die Grundschule (-n): начальная школа
+das Gymnasium: гимназия
+der Klassenlehrer: классный руководитель
+die Leistung (-en): успеваемость
+die Mathematik: математика
+die Note (-n): оценка
+die Sprechstunde (-n): приёмные часы
+das Studium: учёба, учение
+der Stundenplan (--e): расписание уроков
+der Unterricht: занятия; уроки
+das Zeugnis: свидетельство, удостоверение
+anschließend: затем
+anspruchsvoll: требовательный
+ausreichend: удовлетворительный
+befriedigend (un-): удовлетворительный
+begabt: одарённый
+durchschnittlich: посредственный
+ungenügend: недостаточный
+
+
