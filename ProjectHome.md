@@ -1,0 +1,1 @@
+Simple Adobe Flash based application to learn foreign language words.
